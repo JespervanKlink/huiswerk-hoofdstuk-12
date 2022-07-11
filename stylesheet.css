@@ -1,0 +1,56 @@
+h1 {
+  background-color: lightblue;
+  color: white;
+}
+
+#t1{
+  background-color:#FFFFCC;
+  color:#000000;
+}
+
+#t2{
+  background-color: #660000;
+  color:white;
+}
+
+#t3{
+  background-color: #FFCCFF;
+  color: #000000;
+}
+
+#t4{
+  background-color: #000000;
+  color:#FFFFFF;
+}
+
+#t5{
+  background-color: #CC6600;
+  color:#FFFFFF;
+}
+
+#t6{
+  background-color: #A9A9A9;
+  color: #FFFFFF;
+}
+
+#t7{
+  background-color: #FFD700;
+  color:#000000;
+}
+
+#t8{
+  background-color: #0000FF;
+  color: #FFFFFF;
+}
+
+footer{
+  background-color: #90EE90
+  }
+
+.f1{
+  color: #B22233;
+}
+
+.f2{
+  color: #800000
+}
